@@ -10,7 +10,7 @@ I will repeat the important part for clarity: "backup" is _not_ a verb. It's sim
 
 This site is dedicated to educating people about the common misuses of words like "backup." It is meant for both non-native speakers who may not know any better, and for native speakers who _should_ know better but don't. It is in no way a substitute for a real education. Poor grammar is an excellent way to make any presentation sound stupid --or program look sloppy-- so if you intend to use this language much then it behooves you to learn it properly.
 
-For clarity, I need to point out that this has nothing to do with verbification, or "verbing." It is completely natural for nouns to become verbs and verbs to become nouns; the problem this site addresses is the _manner_ in which that happens for a particular category of word or phrase. This is not an attempt to arrest the evolution of the language, but to correct mistakes...
+For clarity, I need to point out that this has nothing to do with verbification, or "verbing." It is completely natural for nouns to become verbs and verbs to become nouns; the problem this site addresses is the _manner_ in which that happens for a particular category of word or phrase. This is not an attempt to arrest the evolution of the language, but to correct mistakes.
 
 <table>
   <thead>
