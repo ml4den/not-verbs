@@ -1,4 +1,5 @@
 # Table of contents
 
-* [README](README.md)
+* [Pick a word](README.md)
+* [Backup](backup.md)
 
