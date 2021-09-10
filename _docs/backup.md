@@ -28,7 +28,7 @@ Here are some examples with the verb "conjugate." If you doubt that "conjugate" 
 | 2nd | you | conjugate | you \[all\] | conjugate |
 | 3rd | he/she/it | conjugates | they | conjugate |
 
-Conjgate is a regular verb, so the present tense is simple. Consider the past tense:
+Conjugate is a regular verb, so the present tense is simple. Consider the past tense:
 
 | Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
 | :--- | :--- | :--- | :--- | :--- |
@@ -105,9 +105,9 @@ As I indicated earlier, I'm sure you can find purists who will argue "backup" is
 
 Adjectives describe nouns. Let's put "backup" with some other adjectives \("stupid" and "alabaster"\) to see how well they play with each other:
 
-   The cat is stupid. It is a stupid cat.  
-   The cat is alabaster. It is an alabaster cat.  
-   The book is backup. It is a backup book.
+      The cat is stupid. It is a stupid cat.  
+      The cat is alabaster. It is an alabaster cat.  
+      The book is backup. It is a backup book.
 
 "Backup" doesn't work well as an adjective.
 
@@ -115,9 +115,9 @@ Adjectives describe nouns. Let's put "backup" with some other adjectives \("stup
 
 Adverbs are to verbs what adjectives are to nouns. Adverbs describe verbs \(or, more accurately, the verb actions\). Here are some sentences with adverbs. See if you can tell which does not belong:
 
-   The car runs smoothly.  
-   The car runs quietly.  
-   The car runs backup backup.
+      The car runs smoothly.  
+      The car runs quietly.  
+      The car runs backup backup.
 
 "Backup" doesn't work well as an adverb.
 
@@ -158,7 +158,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 
 What you do with this information is, of course, your choice. As I mentioned above, however, the ideal choice is to use this knowledge for good and correct errors. The more correct examples people see, the more people will stop believing the lie that this is a verb.
 
-You can also continue your education by learning about [other words that are not verbs](http://notaverb.com/badbad_verbs).
+You can also continue your education by learning about other words that are not verbs on this website.
 
 For entertainment you can read [a sarcastic rebuttal](http://notaverb.com/voltron_verbs.html) to the argument that backup really is a verb and the language simply has evolved.
 
