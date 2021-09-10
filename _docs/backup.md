@@ -14,50 +14,151 @@ For clarity, I need to point out that this has nothing to do with verbification,
 
 ### About Verbs
 
+#### Conjugation
+
 It is possible to conjugate verbs. They can change tense and mood. They can change number and person. You will see how even basic conjugation fails for "backup."
 
 **Verb: "Conjugate"**
 
 Here are some examples with the verb "conjugate." If you doubt that "conjugate" is a verb \(or need to look up what it means\), definitions from [dictionary.com](http://dictionary.reference.com/search?q=conjugate) and [Merriam-Webster](http://webster.com/dictionary/conjugate) agree. Note that, as with many verbs, noun forms exist. Here we're using the verb form.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Person</th>
-      <th style="text-align:left">
-        <p>Singular</p>
-        <p>pronoun</p>
-      </th>
-      <th style="text-align:left">Verb</th>
-      <th style="text-align:left">
-        <p>Plural</p>
-        <p>pronoun</p>
-      </th>
-      <th style="text-align:left">Verb</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">1st</td>
-      <td style="text-align:left">I</td>
-      <td style="text-align:left">conjugate</td>
-      <td style="text-align:left">we</td>
-      <td style="text-align:left">conjugate</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2nd</td>
-      <td style="text-align:left">you</td>
-      <td style="text-align:left">conjugate</td>
-      <td style="text-align:left">you [all]</td>
-      <td style="text-align:left">conjugate</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">3rd</td>
-      <td style="text-align:left">he/she/it</td>
-      <td style="text-align:left">conjugates</td>
-      <td style="text-align:left">they</td>
-      <td style="text-align:left">conjugate</td>
-    </tr>
-  </tbody>
-</table>
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | conjugate | we | conjugate |
+| 2nd | you | conjugate | you \[all\] | conjugate |
+| 3rd | he/she/it | conjugates | they | conjugate |
+
+Conjgate is a regular verb, so the present tense is simple. Consider the past tense:
+
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | conjugated | we | conjugated |
+| 2nd | you | conjugated | you \[all\] | conjugated |
+| 3rd | he/she/it | conjugated | they | conjugated |
+
+The past tense is easy to form with a weak verb like "conjugate." This is normal behavior for a verb. English has more complicated verbs, like irregular and strong verbs, but those are generally the oldest verbs in the language. New verbs are regular and weak.
+
+**Verb: "Backup" \(?\)**
+
+As a new verb, "backup" should follow the regular, weak model that "conjugate" exemplifies. Unfortunately, it does not:
+
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | backup | we | backup |
+| 2nd | you | backup | you \[all\] | backup |
+| 3rd | he/she/it | <span style="color:red">backups</span> | they | backup |
+
+Notice the problem with the third person singular. However, let's choose to ignore this problem for now. After all, we can't let one little conjugation problem make thousands of programmers and technical writers look like fools. Plowing right ahead, we'll look at the past tense:
+
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | backuped | we | backuped |
+| 2nd | you | backuped | you \[all\] | backuped |
+| 3rd | he/she/it | backuped | they | backuped |
+
+Unfortunately, not a single one of those sounds right. It seems that "backup" can't change tense or conjugate like a normal verb.
+
+#### A Strong Verb?
+
+Many older verbs are strong verbs, meaning they change tense by modifying an internal vowel or diphthong. As you will see, it doesn't behave like a strong verb, either. Compare the above behavior to the strong verb "sing:"
+
+| Present | Past |
+| :--- | :--- |
+| I sing | I sang |
+| I run | I ran |
+| I meet | I met |
+
+See how the strong verb forms its past participle by changing an internal vowel \(instead of adding "ed" at the end, for example\). "Backup" does not do that, so it's not a strong verb.
+
+#### A Separate Verb?
+
+Some grammarians will call this a "phrasal" or "two-part" verb, but this is mostly because some grammarians are seeking tenure at their university posts and must publish anything they can to get or keep that coveted teaching spot. Similar motivation has created definitions for "compound verbs" and "stretched verbs" --all different kinds of verbs, supposedly. Essentially, though, a two-part verb must have two parts and backup only has one. The following list of backup's component parts demonstrates this fact.
+
+1. Part 1: backup
+2. Part 2:
+
+#### True Behavior
+
+Someone may make the case that it is irregular. By definition, irregular verbs do not follow rules and have strange conjugations \("I am," "you are," "he is"\), but look at how it behaves:
+
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | back up | we | back up |
+| 2nd | you | back up | you \[all\] | back up |
+| 3rd | he/she/it | backs up | they | back up |
+
+The past tense is also predictable:
+
+| Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
+| :--- | :--- | :--- | :--- | :--- |
+| 1st | I | backed up | we | backed up |
+| 2nd | you | backed up | you \[all\] | backed up |
+| 3rd | he/she/it | backed up | they | backed up |
+
+It appears the verb is "back," which behaves like a regular weak verb \(doubling the final consonant is normal: sag =&gt; sagged, dip =&gt; dipped\) in both American and English. The verb form is not a verb at all, but an idiom of a verb and a preposition, like "break down" or "shake up." In fairness to some grammarians, this kind of idiom sometimes has the name "phrasal verb" or "two-part verb." It's true that most idioms of this kind use strong verbs, since they come from Old Norse influence on the language over a thousand years ago. That makes the "back up" idiom unusual, but far more plausible than pretending that we have an irregular verb "backup" with something like "backdup" as a past participle. No other verb in the American language behaves that way. Even in the arcane, deprecated predecessor of American \(English\), no verb behaves that way.
+
+### What is it?
+
+As I indicated earlier, I'm sure you can find purists who will argue "backup" is not a word at all. For the sake of discussion, I will assume it is a word because I do not care one way or another. Let's look at some possibilities:
+
+#### Adjective
+
+Adjectives describe nouns. Let's put "backup" with some other adjectives \("stupid" and "alabaster"\) to see how well they play with each other:
+
+   The cat is stupid. It is a stupid cat.  
+   The cat is alabaster. It is an alabaster cat.  
+   The book is backup. It is a backup book.
+
+"Backup" doesn't work well as an adjective.
+
+#### Adverb
+
+Adverbs are to verbs what adjectives are to nouns. Adverbs describe verbs \(or, more accurately, the verb actions\). Here are some sentences with adverbs. See if you can tell which does not belong:
+
+   The car runs smoothly.  
+   The car runs quietly.  
+   The car runs backup backup.
+
+"Backup" doesn't work well as an adverb.
+
+#### Noun
+
+Any fourth grader will tell you that a noun is a "person, place, or thing." As such, it is something you can have and something you can modify. Behold as I use my language powers to display ownership of the noun "book" and then modify it:
+
+| Owned | Modified |
+| :--- | :--- |
+| I have a book. | I have a secret book. |
+
+I own the book, then make it a secret book. Truly, that is grand. Now I will do the same for "backup."
+
+| Owned | Modified |
+| :--- | :--- |
+| I have a backup. | I have a secret backup. |
+
+"Backup," it seems, works as a noun.
+
+### Conclusion
+
+Clearly "backup" is not a verb. It's simply not. If it is any part of speech at all, it is a noun. While we did not explore every possible part of speech, we saw with certainty that "backup" is not a verb. It's simply not.
+
+If you take only one thing away from this page, take that one fact: "backup" is not a verb. Educate others. Correct manuals, software, and web pages as you find them. Tell everyone you know that "backup" is not a verb. You will make a pedant \(me\) happy. You will earn the respect of grammar nazis. Most importantly, you will know the truth.
+
+#### Solutions
+
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "backup" Here are some suggestions, assuming you prefer to use "backup" as a word rather than take a more conservative approach and insist the proper form is "back up" or "back-in."
+
+| Common Misuse | Correction |
+| :--- | :--- |
+| Can you backup? | Can you back up? |
+| I tried to backup . . . . | I tried to back up . . . . |
+| Enter your name at the backup prompt. | _\(This is acceptable\)_ |
+| Please backup again. | Please back up again. |
+
+#### What Next
+
+What you do with this information is, of course, your choice. As I mentioned above, however, the ideal choice is to use this knowledge for good and correct errors. The more correct examples people see, the more people will stop believing the lie that this is a verb.
+
+You can also continue your education by learning about [other words that are not verbs](http://notaverb.com/badbad_verbs).
+
+For entertainment you can read [a sarcastic rebuttal](http://notaverb.com/voltron_verbs.html) to the argument that backup really is a verb and the language simply has evolved.
 
