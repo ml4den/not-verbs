@@ -52,9 +52,9 @@ Notice the problem with the third person singular. However, let's choose to igno
 
 | Person | Singular Pronoun | Verb | Plural Pronoun | Verb |
 | :--- | :--- | :--- | :--- | :--- |
-| 1st | I | backuped | we | backuped |
-| 2nd | you | backuped | you \[all\] | backuped |
-| 3rd | he/she/it | backuped | they | backuped |
+| 1st | I | <span style="color:red">backuped</span> | we | <span style="color:red">backuped</span> |
+| 2nd | you | <span style="color:red">backuped</span> | you \[all\] | <span style="color:red">backuped</span> |
+| 3rd | he/she/it | <span style="color:red">backuped</span> | they | <span style="color:red">backuped</span> |
 
 Unfortunately, not a single one of those sounds right. It seems that "backup" can't change tense or conjugate like a normal verb.
 
@@ -105,9 +105,9 @@ As I indicated earlier, I'm sure you can find purists who will argue "backup" is
 
 Adjectives describe nouns. Let's put "backup" with some other adjectives \("stupid" and "alabaster"\) to see how well they play with each other:
 
-   The cat is stupid. It is a stupid cat.  
-   The cat is alabaster. It is an alabaster cat.  
-   The book is backup. It is a backup book.
+   The cat is stupid. It is a stupid cat.  
+   The cat is alabaster. It is an alabaster cat.  
+   The book is backup. It is a backup book.
 
 "Backup" doesn't work well as an adjective.
 
@@ -115,9 +115,9 @@ Adjectives describe nouns. Let's put "backup" with some other adjectives \("stup
 
 Adverbs are to verbs what adjectives are to nouns. Adverbs describe verbs \(or, more accurately, the verb actions\). Here are some sentences with adverbs. See if you can tell which does not belong:
 
-   The car runs smoothly.  
-   The car runs quietly.  
-   The car runs backup backup.
+   The car runs smoothly.  
+   The car runs quietly.  
+   The car runs backup backup.
 
 "Backup" doesn't work well as an adverb.
 
