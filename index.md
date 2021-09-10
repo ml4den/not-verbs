@@ -2,16 +2,13 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+This is the **Edition** template from [CloudCannon](http://cloudcannon.com/). **Edition** is perfect for documenting your product, application or service. It’s populated with example content to give you some ideas.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+ChatApp is a fictional chat application for sending messages and media to others. Teams and friend groups would use ChatApp to stay up to date if it existed.
 
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
-### Getting Started!
+### Getting Started\!\!
 
 Getting a message sent is quick and easy with ChatApp:
 
@@ -31,7 +28,7 @@ Send images, videos and other media to people. Sources include your computer, ph
 
 #### Contact Syncing
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again\!
 
 #### Devices
 
