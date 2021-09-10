@@ -1,10 +1,10 @@
 ---
 title: Facebook
-category: Contact Syncing
+category:
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list\!
 
 > Signing up with Facebook automatically starts syncing contacts.
 
