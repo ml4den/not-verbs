@@ -117,7 +117,7 @@ Adverbs are to verbs what adjectives are to nouns. Adverbs describe verbs \(or, 
 
       The car runs smoothly.  
       The car runs quietly.  
-      The car runs backup backup.
+      The car runs <span style="color:red">~~backup~~ backup</span>.
 
 "Backup" doesn't work well as an adverb.
 
