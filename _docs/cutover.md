@@ -145,7 +145,7 @@ If you take only one thing away from this page, take that one fact: "cutover" is
 
 #### Solutions
 
-Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "cutover" Here are some suggestions, assuming you prefer to use "cutover" as a word rather than take a more conservative approach and insist the proper form is "cut over" or "cut-in."
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "cutover" Here are some suggestions, assuming you prefer to use "cutover" as a word rather than take a more conservative approach and insist the proper form is "cut over" or "cut-over."
 
 | Common Misuse | Correction |
 | :--- | :--- |

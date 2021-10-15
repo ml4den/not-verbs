@@ -145,7 +145,7 @@ If you take only one thing away from this page, take that one fact: "failover" i
 
 #### Solutions
 
-Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "failover" Here are some suggestions, assuming you prefer to use "failover" as a word rather than take a more conservative approach and insist the proper form is "fail over" or "fail-in."
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "failover" Here are some suggestions, assuming you prefer to use "failover" as a word rather than take a more conservative approach and insist the proper form is "fail over" or "fail-over."
 
 | Common Misuse | Correction |
 | :--- | :--- |

@@ -145,7 +145,7 @@ If you take only one thing away from this page, take that one fact: "backup" is 
 
 #### Solutions
 
-Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "backup" Here are some suggestions, assuming you prefer to use "backup" as a word rather than take a more conservative approach and insist the proper form is "back up" or "back-in."
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "backup" Here are some suggestions, assuming you prefer to use "backup" as a word rather than take a more conservative approach and insist the proper form is "back up" or "back-up."
 
 | Common Misuse | Correction |
 | :--- | :--- |

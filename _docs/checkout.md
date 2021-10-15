@@ -145,7 +145,7 @@ If you take only one thing away from this page, take that one fact: "checkout" i
 
 #### Solutions
 
-Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "checkout" Here are some suggestions, assuming you prefer to use "checkout" as a word rather than take a more conservative approach and insist the proper form is "check out" or "check-in."
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "checkout" Here are some suggestions, assuming you prefer to use "checkout" as a word rather than take a more conservative approach and insist the proper form is "check out" or "check-out."
 
 | Common Misuse | Correction |
 | :--- | :--- |

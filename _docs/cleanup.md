@@ -145,7 +145,7 @@ If you take only one thing away from this page, take that one fact: "cleanup" is
 
 #### Solutions
 
-Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "cleanup" Here are some suggestions, assuming you prefer to use "cleanup" as a word rather than take a more conservative approach and insist the proper form is "clean up" or "clean-in."
+Magnanimousness demands that I offer solutions, or correct forms of some of the common abuses of "cleanup" Here are some suggestions, assuming you prefer to use "cleanup" as a word rather than take a more conservative approach and insist the proper form is "clean up" or "clean-up."
 
 | Common Misuse | Correction |
 | :--- | :--- |
