@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you signoff? | Can you sign off? |
 | I tried to signoff . . . . | I tried to sign off . . . . |
-| Enter your name at the signoff prompt. | _\(This is acceptable\)_ |
+| Enter a value at the signoff prompt. | _\(This is acceptable\)_ |
 | Please signoff again. | Please sign off again. |
 
 #### What Next

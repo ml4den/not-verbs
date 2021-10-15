@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you knockout? | Can you knock out? |
 | I tried to knockout . . . . | I tried to knock out . . . . |
-| Enter your name at the knockout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the knockout prompt. | _\(This is acceptable\)_ |
 | Please knockout again. | Please knock out again. |
 
 #### What Next

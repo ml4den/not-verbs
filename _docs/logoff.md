@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you logoff? | Can you log off? |
 | I tried to logoff . . . . | I tried to log off . . . . |
-| Enter your name at the logoff prompt. | _\(This is acceptable\)_ |
+| Enter a value at the logoff prompt. | _\(This is acceptable\)_ |
 | Please logoff again. | Please log off again. |
 
 #### What Next

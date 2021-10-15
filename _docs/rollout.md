@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you rollout? | Can you roll out? |
 | I tried to rollout . . . . | I tried to roll out . . . . |
-| Enter your name at the rollout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the rollout prompt. | _\(This is acceptable\)_ |
 | Please rollout again. | Please roll out again. |
 
 #### What Next

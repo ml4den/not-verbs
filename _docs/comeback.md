@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you comeback? | Can you come back? |
 | I tried to comeback . . . . | I tried to come back . . . . |
-| Enter your name at the comeback prompt. | _\(This is acceptable\)_ |
+| Enter a value at the comeback prompt. | _\(This is acceptable\)_ |
 | Please comeback again. | Please come back again. |
 
 #### What Next

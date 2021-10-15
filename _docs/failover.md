@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you failover? | Can you fail over? |
 | I tried to failover . . . . | I tried to fail over . . . . |
-| Enter your name at the failover prompt. | _\(This is acceptable\)_ |
+| Enter a value at the failover prompt. | _\(This is acceptable\)_ |
 | Please failover again. | Please fail over again. |
 
 #### What Next

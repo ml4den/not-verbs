@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you handout? | Can you hand out? |
 | I tried to handout . . . . | I tried to hand out . . . . |
-| Enter your name at the handout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the handout prompt. | _\(This is acceptable\)_ |
 | Please handout again. | Please hand out again. |
 
 #### What Next

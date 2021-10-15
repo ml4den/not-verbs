@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you workout? | Can you work out? |
 | I tried to workout . . . . | I tried to work out . . . . |
-| Enter your name at the workout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the workout prompt. | _\(This is acceptable\)_ |
 | Please workout again. | Please work out again. |
 
 #### What Next

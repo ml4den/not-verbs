@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you cleanup? | Can you clean up? |
 | I tried to cleanup . . . . | I tried to clean up . . . . |
-| Enter your name at the cleanup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the cleanup prompt. | _\(This is acceptable\)_ |
 | Please cleanup again. | Please clean up again. |
 
 #### What Next

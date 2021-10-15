@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you signin? | Can you sign in? |
 | I tried to signin . . . . | I tried to sign in . . . . |
-| Enter your name at the signin prompt. | _\(This is acceptable\)_ |
+| Enter a value at the signin prompt. | _\(This is acceptable\)_ |
 | Please signin again. | Please sign in again. |
 
 #### What Next

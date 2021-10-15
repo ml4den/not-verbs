@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you shutoff? | Can you shut off? |
 | I tried to shutoff . . . . | I tried to shut off . . . . |
-| Enter your name at the shutoff prompt. | _\(This is acceptable\)_ |
+| Enter a value at the shutoff prompt. | _\(This is acceptable\)_ |
 | Please shutoff again. | Please shut off again. |
 
 #### What Next

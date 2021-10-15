@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you cutoff? | Can you cut off? |
 | I tried to cutoff . . . . | I tried to cut off . . . . |
-| Enter your name at the cutoff prompt. | _\(This is acceptable\)_ |
+| Enter a value at the cutoff prompt. | _\(This is acceptable\)_ |
 | Please cutoff again. | Please cut off again. |
 
 #### What Next

@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you rollover? | Can you roll over? |
 | I tried to rollover . . . . | I tried to roll over . . . . |
-| Enter your name at the rollover prompt. | _\(This is acceptable\)_ |
+| Enter a value at the rollover prompt. | _\(This is acceptable\)_ |
 | Please rollover again. | Please roll over again. |
 
 #### What Next

@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you signup? | Can you sign up? |
 | I tried to signup . . . . | I tried to sign up . . . . |
-| Enter your name at the signup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the signup prompt. | _\(This is acceptable\)_ |
 | Please signup again. | Please sign up again. |
 
 #### What Next

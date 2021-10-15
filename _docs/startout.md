@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you startout? | Can you start out? |
 | I tried to startout . . . . | I tried to start out . . . . |
-| Enter your name at the startout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the startout prompt. | _\(This is acceptable\)_ |
 | Please startout again. | Please start out again. |
 
 #### What Next

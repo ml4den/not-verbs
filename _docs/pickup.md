@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you pickup? | Can you pick up? |
 | I tried to pickup . . . . | I tried to pick up . . . . |
-| Enter your name at the pickup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the pickup prompt. | _\(This is acceptable\)_ |
 | Please pickup again. | Please pick up again. |
 
 #### What Next

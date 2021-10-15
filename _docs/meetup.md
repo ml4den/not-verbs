@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you meetup? | Can you meet up? |
 | I tried to meetup . . . . | I tried to meet up . . . . |
-| Enter your name at the meetup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the meetup prompt. | _\(This is acceptable\)_ |
 | Please meetup again. | Please meet up again. |
 
 #### What Next

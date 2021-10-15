@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you slowdown? | Can you slow down? |
 | I tried to slowdown . . . . | I tried to slow down . . . . |
-| Enter your name at the slowdown prompt. | _\(This is acceptable\)_ |
+| Enter a value at the slowdown prompt. | _\(This is acceptable\)_ |
 | Please slowdown again. | Please slow down again. |
 
 #### What Next

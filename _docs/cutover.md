@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you cutover? | Can you cut over? |
 | I tried to cutover . . . . | I tried to cut over . . . . |
-| Enter your name at the cutover prompt. | _\(This is acceptable\)_ |
+| Enter a value at the cutover prompt. | _\(This is acceptable\)_ |
 | Please cutover again. | Please cut over again. |
 
 #### What Next

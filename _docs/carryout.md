@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you carryout? | Can you carry out? |
 | I tried to carryout . . . . | I tried to carry out . . . . |
-| Enter your name at the carryout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the carryout prompt. | _\(This is acceptable\)_ |
 | Please carryout again. | Please carry out again. |
 
 #### What Next

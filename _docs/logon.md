@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you logon? | Can you log on? |
 | I tried to logon . . . . | I tried to log on . . . . |
-| Enter your name at the logon prompt. | _\(This is acceptable\)_ |
+| Enter a value at the logon prompt. | _\(This is acceptable\)_ |
 | Please logon again. | Please log on again. |
 
 #### What Next

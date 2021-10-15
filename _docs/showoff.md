@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you showoff? | Can you show off? |
 | I tried to showoff . . . . | I tried to show off . . . . |
-| Enter your name at the showoff prompt. | _\(This is acceptable\)_ |
+| Enter a value at the showoff prompt. | _\(This is acceptable\)_ |
 | Please showoff again. | Please show off again. |
 
 #### What Next

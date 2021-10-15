@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you setup? | Can you set up? |
 | I tried to setup . . . . | I tried to set up . . . . |
-| Enter your name at the setup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the setup prompt. | _\(This is acceptable\)_ |
 | Please setup again. | Please set up again. |
 
 #### What Next

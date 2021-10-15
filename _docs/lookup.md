@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you lookup? | Can you look up? |
 | I tried to lookup . . . . | I tried to look up . . . . |
-| Enter your name at the lookup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the lookup prompt. | _\(This is acceptable\)_ |
 | Please lookup again. | Please look up again. |
 
 #### What Next

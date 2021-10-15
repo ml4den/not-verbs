@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you lockdown? | Can you lock down? |
 | I tried to lockdown . . . . | I tried to lock down . . . . |
-| Enter your name at the lockdown prompt. | _\(This is acceptable\)_ |
+| Enter a value at the lockdown prompt. | _\(This is acceptable\)_ |
 | Please lockdown again. | Please lock down again. |
 
 #### What Next

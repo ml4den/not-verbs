@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you checkin? | Can you check in? |
 | I tried to checkin . . . . | I tried to check in . . . . |
-| Enter your name at the checkin prompt. | _\(This is acceptable\)_ |
+| Enter a value at the checkin prompt. | _\(This is acceptable\)_ |
 | Please checkin again. | Please check in again. |
 
 #### What Next

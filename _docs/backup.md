@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you backup? | Can you back up? |
 | I tried to backup . . . . | I tried to back up . . . . |
-| Enter your name at the backup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the backup prompt. | _\(This is acceptable\)_ |
 | Please backup again. | Please back up again. |
 
 #### What Next

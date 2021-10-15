@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you takedown? | Can you take down? |
 | I tried to takedown . . . . | I tried to take down . . . . |
-| Enter your name at the takedown prompt. | _\(This is acceptable\)_ |
+| Enter a value at the takedown prompt. | _\(This is acceptable\)_ |
 | Please takedown again. | Please take down again. |
 
 #### What Next

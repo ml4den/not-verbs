@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you meltdown? | Can you melt down? |
 | I tried to meltdown . . . . | I tried to melt down . . . . |
-| Enter your name at the meltdown prompt. | _\(This is acceptable\)_ |
+| Enter a value at the meltdown prompt. | _\(This is acceptable\)_ |
 | Please meltdown again. | Please melt down again. |
 
 #### What Next

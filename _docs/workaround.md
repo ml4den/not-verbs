@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you workaround? | Can you work around? |
 | I tried to workaround . . . . | I tried to work around . . . . |
-| Enter your name at the workaround prompt. | _\(This is acceptable\)_ |
+| Enter a value at the workaround prompt. | _\(This is acceptable\)_ |
 | Please workaround again. | Please work around again. |
 
 #### What Next

@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you startup? | Can you start up? |
 | I tried to startup . . . . | I tried to start up . . . . |
-| Enter your name at the startup prompt. | _\(This is acceptable\)_ |
+| Enter a value at the startup prompt. | _\(This is acceptable\)_ |
 | Please startup again. | Please start up again. |
 
 #### What Next

@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you rollback? | Can you roll back? |
 | I tried to rollback . . . . | I tried to roll back . . . . |
-| Enter your name at the rollback prompt. | _\(This is acceptable\)_ |
+| Enter a value at the rollback prompt. | _\(This is acceptable\)_ |
 | Please rollback again. | Please roll back again. |
 
 #### What Next

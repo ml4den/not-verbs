@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you checkout? | Can you check out? |
 | I tried to checkout . . . . | I tried to check out . . . . |
-| Enter your name at the checkout prompt. | _\(This is acceptable\)_ |
+| Enter a value at the checkout prompt. | _\(This is acceptable\)_ |
 | Please checkout again. | Please check out again. |
 
 #### What Next

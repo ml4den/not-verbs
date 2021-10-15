@@ -151,7 +151,7 @@ Magnanimousness demands that I offer solutions, or correct forms of some of the 
 | :--- | :--- |
 | Can you splashdown? | Can you splash down? |
 | I tried to splashdown . . . . | I tried to splash down . . . . |
-| Enter your name at the splashdown prompt. | _\(This is acceptable\)_ |
+| Enter a value at the splashdown prompt. | _\(This is acceptable\)_ |
 | Please splashdown again. | Please splash down again. |
 
 #### What Next
