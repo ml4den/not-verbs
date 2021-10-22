@@ -1,0 +1,91 @@
+---
+title: Contact
+---
+
+<div class="container">
+	<h1>Contact Us</h1>
+	<form id="contact" method="POST" action="https://my-contact-form-production.ml4den.workers.dev">
+		<div class="form-group">
+			<label>Name
+				<input name="name" type="text" class="form-control required" placeholder="John Doe">
+			</label>
+		</div>
+		<div class="form-group">
+			<label>Email address
+				<input name="email" type="email" class="form-control required email" placeholder="Enter email">
+			</label>
+		</div>
+		<div class="form-group">
+			<label>Subject
+				<input name="subject" type="text" class="form-control required" placeholder="">
+			</label>
+		</div>
+		<div class="form-group">
+			<label>Message
+				<textarea name="message" class="form-control"></textarea>
+			</label>
+		</div>
+
+		<input type="hidden" name="g-recaptcha-response" />
+		<button type="submit" class="btn btn-primary" disabled="disabled">Submit</button>
+	</form>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeOQ-YcAAAAADSlT9CJ1zJS092s6Q_FTYxlZF28"></script>
+<script>
+	// Add recaptcha token and enable the submit button
+	grecaptcha.ready(reloadRecaptcha);
+
+	function reloadRecaptcha()
+	{
+		grecaptcha.execute('6LeOQ-YcAAAAADSlT9CJ1zJS092s6Q_FTYxlZF28', {action: 'contact'}).then(function(token) {
+			let $form = jQuery('#contact');
+
+			$form.find('input[name=g-recaptcha-response]').val(token);
+			$form.find(':submit').removeAttr('disabled');
+		});
+	}
+</script>
+<script>
+	// Validate the form
+	jQuery("#contact").validate({
+		submitHandler: function(form) {
+			// Generate a {field: val, field2: val2, ...} object
+			let formData = jQuery('#contact')
+				.serializeArray()
+				.map(
+					function (x) {
+						this[x.name] = x.value;
+						return this;
+					}.bind({})
+				)[0];
+
+			jQuery.ajax({
+				cache: false,
+				url: jQuery(form).attr('action'),
+				method: jQuery(form).attr('method'),
+				data: JSON.stringify(formData),
+				dataType: 'json',
+				beforeSend: function(jqXHR, settings) {
+					jQuery(form).find(':submit').attr('disabled', 'disabled');
+				},
+				success: function(data, textStatus, jqXHR) {
+					alert(data.message);
+					form.reset();
+				},
+				error: function(jqXHR, textStatus, errorThrown) {
+					if (jqXHR.responseJSON) {
+						alert(jqXHR.responseJSON.message);
+					} else {
+						alert("An unknown error occurred.");
+					}
+				},
+				complete: function() {
+					reloadRecaptcha();
+				}
+			});
+		}
+	});
+</script>
