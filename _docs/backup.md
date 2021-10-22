@@ -1,9 +1,11 @@
 ---
 title: Backup
-category: Pick a word
+categories:
+- Pick a word
 order: 1
 description: '"Backup" Is Not a Verb'
 ---
+
 Despite what many people --mostly in the computer field-- think, "backup" is not a verb. It's simply not. Whether or not "backup" is a word at all may spark a debate in some circles, but assuming it is then it may act as many parts of speech, but not as a verb.
 
 I will repeat the important part for clarity: "backup" is _not_ a verb. It's simply not.
