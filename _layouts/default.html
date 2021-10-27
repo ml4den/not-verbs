@@ -66,6 +66,12 @@
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
 				</ul>
+				<ul>
+					<li class="nav-item top-level {% if page.url == '/contact/' %}current{% endif %}">
+						{% assign contact = site.html_pages | where: 'url', '/contact/' | first %}
+						<a href="{{ site.baseurl }}/contact/">{{ contact.title }}</a>
+					</li>
+				</ul>
 			</nav>
 		</header>
 
