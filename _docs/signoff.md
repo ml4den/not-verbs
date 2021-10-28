@@ -1,11 +1,9 @@
 ---
 title: Signoff
-categories:
-- Pick a word
+category: Not a Verb
 order: 1
 description: '"Signoff" Is Not a Verb'
 ---
-
 Despite what many people --mostly in the computer field-- think, "signoff" is not a verb. It's simply not. Whether or not "signoff" is a word at all may spark a debate in some circles, but assuming it is then it may act as many parts of speech, but not as a verb.
 
 I will repeat the important part for clarity: "signoff" is _not_ a verb. It's simply not.

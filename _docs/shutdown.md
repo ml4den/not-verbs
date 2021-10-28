@@ -1,11 +1,9 @@
 ---
 title: Shutdown
-categories:
-- Pick a word
+category: Not a Verb
 order: 1
 description: '"Shutdown" Is Not a Verb'
 ---
-
 Despite what many people --mostly in the computer field-- think, "shutdown" is not a verb. It's simply not. Whether or not "shutdown" is a word at all may spark a debate in some circles, but assuming it is then it may act as many parts of speech, but not as a verb.
 
 I will repeat the important part for clarity: "shutdown" is _not_ a verb. It's simply not.
