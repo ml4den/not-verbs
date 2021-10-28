@@ -1,6 +1,6 @@
 ---
 title: Splashdown
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Splashdown" Is Not a Verb'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shutoff
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Shutoff" Is Not a Verb'
 ---

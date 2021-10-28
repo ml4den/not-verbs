@@ -1,6 +1,6 @@
 ---
 title: Carryout
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Carryout" Is Not a Verb'
 ---

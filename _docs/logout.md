@@ -1,6 +1,6 @@
 ---
 title: Logout
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Logout" Is Not a Verb'
 ---

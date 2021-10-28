@@ -1,6 +1,6 @@
 ---
 title: Lockdown
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Lockdown" Is Not a Verb'
 ---

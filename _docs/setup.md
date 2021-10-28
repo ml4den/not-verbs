@@ -1,6 +1,6 @@
 ---
 title: Setup
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Setup" Is Not a Verb'
 ---

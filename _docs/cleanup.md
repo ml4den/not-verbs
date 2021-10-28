@@ -1,6 +1,6 @@
 ---
 title: Cleanup
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Cleanup" Is Not a Verb'
 ---

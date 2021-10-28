@@ -1,6 +1,6 @@
 ---
 title: Logon
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Logon" Is Not a Verb'
 ---

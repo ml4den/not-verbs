@@ -1,6 +1,6 @@
 ---
 title: Rollover
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Rollover" Is Not a Verb'
 ---

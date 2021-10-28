@@ -1,6 +1,6 @@
 ---
 title: Workaround
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Workaround" Is Not a Verb'
 ---

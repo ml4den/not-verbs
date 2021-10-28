@@ -1,6 +1,6 @@
 ---
 title: Signin
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Signin" Is Not a Verb'
 ---

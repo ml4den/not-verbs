@@ -1,6 +1,6 @@
 ---
 title: Rollout
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Rollout" Is Not a Verb'
 ---

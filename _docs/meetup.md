@@ -1,6 +1,6 @@
 ---
 title: Meetup
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Meetup" Is Not a Verb'
 ---

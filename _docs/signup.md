@@ -1,6 +1,6 @@
 ---
 title: Signup
-category: Pick a word
+category: Not a Verb
 order: 1
 description: '"Signup" Is Not a Verb'
 ---
