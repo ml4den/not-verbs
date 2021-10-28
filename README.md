@@ -3,7 +3,7 @@
 ## About
 This project aims to preserve the ageing [notaverb.com](http://notaverb.com) that it is based on while also offering a more modern approach of delivering and maintaining the site's contents.
 
-In addition, this project is aimed at demonstrating the versatility and ease of use of the [Jamstack](https://en.wikipedia.org/wiki/Jamstack) framework.
+In addition, this project is aimed at demonstrating the versatility and ease of use of the [Jamstack](https://en.wikipedia.org/wiki/Jamstack) architecture pattern.
 
 ## Credits
 This website is based on notaverb.com, originally published in 2006.
