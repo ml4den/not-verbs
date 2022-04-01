@@ -11,3 +11,6 @@ This website is based on notaverb.com, originally published in 2006.
 The built pages are delivered via a [fast global network](https://www.cloudflare.com/network/) by [Cloudflare Pages](https://pages.cloudflare.com/) with [Cloudflare Workers](https://workers.cloudflare.com/) running the serverless contact form.
 
 It is made with [Jekyll](https://jekyllrb.com/) and the [Edition template](https://github.com/CloudCannon/edition-jekyll-template) from CloudCannon.
+
+## Contributing
+You are welcome to submit an issue or a pull request if you want to add a new word, make other enhancements, or report something.
